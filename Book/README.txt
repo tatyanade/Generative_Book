@@ -1,0 +1,1 @@
+the number /tweet numbers in the global variable must be the same in all the functions
